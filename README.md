@@ -64,7 +64,7 @@ Hey, I'm Cinder! I'm a Computer Science student working towards becoming a full-
 ## 🤝 Connect With Me
 
 - GitHub: [@cinderhq](https://github.com/cinderhq)
-- Discord: [@cinderhq](https://dicord.com/cinderhq)
+- Discord: [@cinderhq](https://dicord.gg/cinderhq)
 
 ---
 
