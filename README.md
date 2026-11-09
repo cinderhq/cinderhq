@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-Hey, I'm Cinder! I'm a Computer Science student working towards becoming a full-stack developer.
+Hey, I'm Cinder! I'm a Software Engineering student working towards becoming a full-stack developer.
 
 - 💻 Currently improving my JavaScript skills.
 - 🛒 Building an Amazon-style e-commerce project.
@@ -54,7 +54,7 @@ Hey, I'm Cinder! I'm a Computer Science student working towards becoming a full-
 ## 🗺️ My Roadmap
 
 - [x] HTML and CSS foundations
-- [x] Flexbox and Grid
+- [x] Complete HTML and CSS 
 - [ ] Strengthen JavaScript
 - [ ] Learn React
 - [ ] Learn Node.js and Express
