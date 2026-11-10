@@ -65,6 +65,7 @@ Hey, I'm Cinder! I'm a Software Engineering student working towards becoming a f
 
 - GitHub: [@cinderhq](https://github.com/cinderhq)
 - Discord: [@cinderhq](https://discord.com/users/1532530889219772539)
+- LinkedIn: [@cinderhq](https://www.linkedin.com/in/cinderhq/)
 
 ---
 
