@@ -49,7 +49,7 @@ Hey, I'm Cinder! I'm a Software Engineering student working towards becoming a f
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cinderhq&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub statistics" />
+  <img src="https://github-stats-extended.vercel.app/api?username=cinderhq&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8" alt="GitHub statistics" />
 </p>
 
 ## 🗺️ My Roadmap
